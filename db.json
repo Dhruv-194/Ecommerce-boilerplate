@@ -13,6 +13,20 @@
       "firstname": "firstname",
       "lastname": "lastname",
       "id": 2
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$OInzky4UmgXrzPkaavF7zuogCKtSS5eMUjnxbXLwdWmHAlT.a7wE6",
+      "firstname": "Naman",
+      "lastname": "Jain",
+      "id": 3
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$JEVcKEimY1fzBsYENmlhEuw65N.vNnD2hU9vDgJDzYrh8GadYYpES",
+      "firstname": "Naman",
+      "lastname": "Jain",
+      "id": 4
     }
   ],
   "products": [

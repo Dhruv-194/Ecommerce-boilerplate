@@ -54,7 +54,7 @@ import { useParams } from 'react-router-dom';
     }
 
   return (
-    <div>
+    <div style={{backgroundColor: '#ffffff'}}>
             <div className="container">
                 <div className="row py-5">
                    {loading ?<Loading/> : <ShowProduct/>} 
