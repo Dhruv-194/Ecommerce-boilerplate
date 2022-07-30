@@ -2,7 +2,8 @@
 
 
 ## My Attempt -
-- Created a basic Login/Register Components Page 
+- Created a basic UI of Login/Register Components Page
+- Intialized the authentication of user using the given API endpoints
 - Created a Products Components Page which shows the list of the products after fetching from the API 
 - Created a Product Detail Component page which displays the detail of the product after fetching from the API
 
@@ -16,6 +17,8 @@
 - `npm run server` - To start the JSON server
 - `npm start` - To start the react app
 
+
+## Screenshots
 
 ---
 <details>
