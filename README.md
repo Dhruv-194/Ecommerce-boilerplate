@@ -18,6 +18,9 @@
 
 
 ---
+<details>
+<summary> the assignemnt </summary>
+<br>
 
 ## Overview
 
@@ -98,3 +101,4 @@ More info about API usage can be found at the [Postman Collection](https://www.g
 - Well explained readme (screenshot etc)
 
 ---
+<details>
