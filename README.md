@@ -1,7 +1,20 @@
 # Ecommerce (React) Coding Assessment
 
 
-## My Attempt 
+## My Attempt -
+- Created a basic Login/Register Components Page 
+- Created a Products Components Page which shows the list of the products after fetching from the API 
+- Created a Product Detail Component page which displays the detail of the product after fetching from the API
+
+> ### Note : I tried my best to make the UI of Product Page and Product Detail Page as close to the given screenshot
+
+## How to Setup
+
+- Clone this repo
+- `npm install` - To install the dependencies
+- `npm install -D json-server json-server-auth` - for *actually* running the json-server
+- `npm run server` - To start the JSON server
+- `npm start` - To start the react app
 
 
 ---
