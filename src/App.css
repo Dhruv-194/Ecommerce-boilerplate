@@ -1,3 +1,14 @@
 .navbar-nav a{
     font-size: 18px;
+    color: white;
+    
+    margin-inline-start: 10px;
+
+}
+* {
+    box-sizing: border-box;
+    background: '#51E1ED';
+}
+.body{
+    background: '#51E1ED';
 }

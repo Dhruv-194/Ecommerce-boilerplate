@@ -28,10 +28,11 @@ import { useParams } from 'react-router-dom';
     const ShowProduct = () => {
         return (
             <>
-            <div className='col-md-6'>
-                <img src={product.image} alt={product.title} height="400px" widht ="300px"/>
+            <div className='col-md-6' style={{borderRight:'6px green'}}>
+                <img src={product.image} alt={product.title} height="400px" width ="300px"/>
             </div>
             <div className='col-md-6'>
+                
                 <h1 className='display-5'>{product.title}</h1>
                 <p className="lead fw-bolder"> 
                 Rating {product.rating}
